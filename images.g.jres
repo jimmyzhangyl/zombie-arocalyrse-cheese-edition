@@ -1,4 +1,9 @@
 {
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAFAAAAAAAAAAUAUAAAAAAABQAAAAAAAAAFBVVVVVBQAAUABVURUFAABQAFVVVQUAAFAAVVEVBQAAAABVVVEFAAAAAFVRVQUAAABQVVUVBQAAAABVVVUFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pistol"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
